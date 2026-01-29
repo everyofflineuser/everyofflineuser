@@ -16,7 +16,7 @@
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
 ### Follow Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ev3ry0fflinecode)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/bigbraincool)
 [![4chan](https://img.shields.io/badge/-4chan-090909?style=for-the-badge&logo=4chan&logoColor=006600)](https://www.youtube.com/watch?v=HIcSWuKMwOw)
 
 ### 📈 GitHub Activity Graph:
